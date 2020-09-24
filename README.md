@@ -6,7 +6,7 @@ technique that includes image processing, number plate extraction, segmentation
 followed by verifying with database. Then the user of the vehicle is verified
 using fingerprint biometric authentication in order to provide additional security.
 </br>
-## Output of the Application is given below
+## Output of this Application is given below
 
 ### Registered vehicle
 <br/>
