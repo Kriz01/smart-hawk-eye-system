@@ -10,10 +10,10 @@ using fingerprint biometric authentication in order to provide additional securi
 
 ### Registered vehicle
 <br/>
-<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/vehicle_no_plate_recognition.png" width="700px">
-<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/vehicle_registered.png" width="700px">
+<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/vehicle_no_plate_recognition.png" width="1000px">
+<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/vehicle_registered.png" width="1000px">
 
 ### Unregistered vehicle
-<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/unregistered_no_plate.png" width="700px">
-<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/unregistered_output.png" width="700px">
+<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/unregistered_no_plate.png" width="1000px">
+<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/unregistered_output.png" width="1000px">
 
