@@ -6,5 +6,9 @@ technique that includes image processing, number plate extraction, segmentation
 followed by verifying with database. Then the user of the vehicle is verified
 using fingerprint biometric authentication in order to provide additional security.
 
+##Registerd vehicle
 <br/>
-<img src="https://raw.githubusercontent.com/Kriz01/website-update-tracker/master/website.PNG" width="700px">
+<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/vehicle_no_plate_recognition.png" width="700px">
+<br/>
+<img src="https://raw.githubusercontent.com/Kriz01/smart-hawk-eye-system/master/vehicle_registered.png" width="700px">
+
